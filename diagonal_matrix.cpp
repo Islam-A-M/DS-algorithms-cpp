@@ -1,4 +1,4 @@
-
+// wrong one
 class Diagonal {
 private:
     int n;
